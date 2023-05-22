@@ -1,6 +1,6 @@
 # React Todo App
 
-[DEMO LINK](https://BozhenaBodnar.github.io/react_todo-app-with-api/)
+[DEMO LINK](https://bozhenabodnar.github.io/todo_app/)
 
 This is a simple todo app built with React, allowing you to create, read, update, and delete tasks. It demonstrates the basics of building a CRUD (Create, Read, Update, Delete) application using React.
 
